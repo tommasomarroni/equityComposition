@@ -8,7 +8,7 @@ import numpy as np
 
 # Configurazione della pagina
 st.set_page_config(
-    page_title="Portfolio Composition Analyser",
+    page_title="Equity Composition Analyser",
     page_icon="📊",
     layout="wide"
 )
@@ -172,7 +172,7 @@ def create_region_comparison_chart(benchmark_df, portfolio_regions):
     return fig
 
 # Interfaccia principale
-st.title("ETF Portfolio - Equity Composition Analyser")
+st.title("Equity Composition Analyser for ETF Portfolios")
 st.markdown("---")
 
 # Sezione upload benchmark
