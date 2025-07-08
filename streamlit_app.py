@@ -282,5 +282,5 @@ else:
 st.markdown("---")
 st.markdown("*Tool to evaluate portfolio holdings composition, geographical exposure and sector exposure w.r.t. a benchmark*")
 st.markdown("*This tool only works with iShares ETFs csv files, available at ishares.com*")
-st.markdown("*Made by Tommaso Marroni - AI supported*")
+st.markdown("*Made by Tommaso Marroni*")
 
